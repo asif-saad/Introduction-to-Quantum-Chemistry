@@ -1,1 +1,1 @@
-# Introduction-to-Quantum-Chemistry
+# Introduction to Quantum Chemistry
